@@ -15,11 +15,12 @@
 
 
 ディレクトリ構成はこんな感じ
+```
 . myos/
 ├── myos.img
 ├── OVMF_VARS.fd
 └── OVMF_CODE.fd
-
+```
 
 
 
